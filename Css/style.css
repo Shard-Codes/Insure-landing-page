@@ -166,7 +166,7 @@ a {
 }
 
 .section {
-  padding: 5rem 0 4.5rem;
+  padding: 7rem 0;
 }
 
 .section__title {
@@ -757,7 +757,7 @@ a {
     position: absolute;
     top: 15%;
     right: 0;
-    width: 450px;
+    width: 460px;
   }
 
   .hero__title {
