@@ -29,8 +29,8 @@ Desktop view             |  Mobile view
 
 ### Links
 
-- Solution URL: [Frontend mentor solution link](https://your-solution-url.com)
-- Live Site URL: [Live site link](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution link](https://www.frontendmentor.io/solutions/insure-landing-page-made-with-html-css-and-some-javscript-ADUvHy62qK)
+- Live Site URL: [Live site link](https://insure-landing-page-new.netlify.app/)
 
 ## My process
 
